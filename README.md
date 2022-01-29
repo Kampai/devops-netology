@@ -8,3 +8,4 @@
 -файлы override.tf, override.tf.json и файлы c расширением *_override.tf и *_override.tf.json
 -файл .terrafirmrc и  файл terraform.rc
 
+add string
